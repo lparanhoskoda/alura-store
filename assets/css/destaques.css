@@ -1,0 +1,6 @@
+.destaques{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-row:33.33% 33.33% 33.33% 33.33%;
+    height:calc(100vh - 50px) ;
+}
